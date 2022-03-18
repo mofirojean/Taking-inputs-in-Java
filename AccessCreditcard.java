@@ -1,5 +1,6 @@
 public class AccessCreditcard {
-
+// using the command line arguement as input
+    
     public static void main(String[] args){
         CreditCard[] wallet = new CreditCard[3];
         wallet[0] = new CreditCard("peter johnas", "Califonia Savings", "563 2435 355 463", 500);
